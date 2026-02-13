@@ -7,8 +7,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahoum&theme=tokyo-night" />
 </p>
 
-
-
 ---
 <h2 align="center">🚀 Tech Stack & Skills</h2>
 
