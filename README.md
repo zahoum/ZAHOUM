@@ -9,11 +9,6 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<h2 align="center">⚡ My Development Activity</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zahoum&no-frame=true&row=1" />
-</p>
 
 
 ## 📈 Contribution Graph
