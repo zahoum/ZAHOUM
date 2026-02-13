@@ -1,10 +1,5 @@
 Welcome ZAHOUM Family
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=Hgg7M3kSqyE">
-    <img src="https://img.youtube.com/vi/Hgg7M3kSqyE/maxresdefault.jpg" width="100%">
-  </a>
-</p>
-
+https://github.com/zahoum/ZAHOUM/issues/1#issue-3939507709
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
