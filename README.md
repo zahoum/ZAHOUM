@@ -1,4 +1,4 @@
-![DEV](https://private-user-images.githubusercontent.com/145470651/549691925-a80a4431-c890-4280-bc85-53c08717c74c.webp?jwt=YOUR_TOKEN_HERE)
+![Image](https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c)
 
 ---
 
