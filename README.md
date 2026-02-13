@@ -1,11 +1,10 @@
 <div align="center">
-  <div style="width: 90%; max-width: 1200px; background: #000; border-radius: 10px;">
-    <img src="https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c" 
-         style="width: 100%; height: auto; display: block;"
-         alt="Profile GIF">
-  </div>
+  <img src="https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c" 
+       width="90%" 
+       height="45%" 
+       style="object-fit: contain; max-width: 1200px; background: black;"
+       alt="Profile GIF">
 </div>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 
