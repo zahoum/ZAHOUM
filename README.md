@@ -1,4 +1,4 @@
-<h1>Welcome ZAHOUM Family</h1>
+<h1> ZAHOUM </h1>
 <h2 align="center">🚀 Tech Stack & Skills</h2>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <h2 align="center">⚡ My Development Activity</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zahoum&theme=onedark&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zahoum&no-frame=true&row=1" />
 </p>
 
 
