@@ -1,40 +1,20 @@
-<h1 align="center">Hi 👋, I'm Zahoum</h1>
-<h3 align="center">Full Stack Developer | Passionate about Web & Software Development</h3>
-
----
-
-## 🚀 About Me
-
-- 💻 I love building web applications
-- 🔥 Working with React, PHP & Python
-- 🌱 Currently improving my backend & DevOps skills
-- 🎯 Goal: Become a strong full-stack engineer
-
----
-
-## 🛠️ Tech Stack
+Welcome ZAHOUM Family
+<h2 align="center">🚀 Tech Stack & Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,python,mysql,mongodb,java,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,python,mysql,mongodb,git,github,linux,laravel,python" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
+
+<h2 align="center">⚡ My Development Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahoum&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zahoum&theme=onedark&no-frame=true&row=1" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahoum&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahoum&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
