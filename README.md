@@ -1,5 +1,9 @@
-<img src="https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c" width="90%" alt="Profile GIF" heigth='50%'>
----
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c" 
+       width="90%" 
+       style="aspect-ratio: 2/1; object-fit: cover; max-width: 1200px;"
+       alt="Profile GIF">
+</div>---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
