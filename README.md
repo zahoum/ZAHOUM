@@ -13,15 +13,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahoum&theme=tokyo-night" />
 </p>
 
----
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/zahoum">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 ---
 <h2 align="center">🚀 Tech Stack & Skills</h2>
@@ -31,6 +23,15 @@
 </p>
 ⭐️ From Zahoum
 
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/zahoum">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <picture>
   <source
