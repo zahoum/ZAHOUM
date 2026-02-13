@@ -1,9 +1,5 @@
 <h1> ZAHOUM </h1>
-<h2 align="center">🚀 Tech Stack & Skills</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,python,mysql,mongodb,git,github,linux,laravel,python" />
-</p>
 
 ---
 
@@ -28,7 +24,11 @@
 </p>
 
 ---
+<h2 align="center">🚀 Tech Stack & Skills</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,python,mysql,mongodb,git,github,linux,laravel,python" />
+</p>
 ⭐️ From Zahoum
 
 
