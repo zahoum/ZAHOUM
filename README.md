@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c" width="80%" alt="Profile GIF" height='50%'>
+<img src="https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c" width="90%" alt="Profile GIF" heigth='50%'>
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
