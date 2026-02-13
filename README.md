@@ -2,7 +2,7 @@ Welcome ZAHOUM Family
 <h2 align="center">🚀 Tech Stack & Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,python,mysql,mongodb,java,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,python,mysql,mongodb,git,github,linux,laravel,python" />
 </p>
 
 ---
@@ -10,7 +10,7 @@ Welcome ZAHOUM Family
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zahoum&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Welcome ZAHOUM Family
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahoumtheme=tokyo-night" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ Welcome ZAHOUM Family
 <h2 align="center">⚡ My Development Activity</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zahoum&theme=onedark&no-frame=true&row=1" />
 </p>
 
 <picture>
