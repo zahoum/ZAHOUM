@@ -1,13 +1,5 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c" 
-       width="90%" 
-       height="45%" 
-       style="object-fit: contain; max-width: 1200px; background: black;"
-       alt="Profile GIF">
-</div>
+<h1>ZAHOUM</h1>
 <h2 align="center">📊 GitHub Stats</h2>
-
-
 
 ## 📈 Contribution Graph
 
@@ -40,6 +32,13 @@
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
+  <div align="center">
+  <img src="https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c" 
+       width="90%" 
+       height="45%" 
+       style="object-fit: contain; max-width: 1200px; background: black;"
+       alt="Profile GIF">
+</div>
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
