@@ -22,7 +22,7 @@ Welcome ZAHOUM Family
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahoumtheme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahoum&theme=tokyo-night" />
 </p>
 
 ---
