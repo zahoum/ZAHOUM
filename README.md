@@ -43,3 +43,8 @@
   />
   
 </picture>
+<img src="https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c" 
+       width="90%" 
+       height="45%" 
+       style="object-fit: contain; max-width: 1200px; background: black;"
+       alt="Profile GIF">
