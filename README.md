@@ -1,5 +1,9 @@
 Welcome ZAHOUM Family
-[![Watch the video](https://img.youtube.com/vi/Hgg7M3kSqyE/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hgg7M3kSqyE)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Hgg7M3kSqyE">
+    <img src="https://img.youtube.com/vi/Hgg7M3kSqyE/maxresdefault.jpg" width="100%">
+  </a>
+</p>
 
 <picture>
   <source
