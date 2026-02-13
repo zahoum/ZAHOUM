@@ -1,4 +1,7 @@
-<img src="https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c" width="100%" alt="Profile GIF" height='50%'>
+<video width="100%" autoplay loop muted playsinline>
+  <source src="![Image](https://github.com/user-attachments/assets/a80a4431-c890-4280-bc85-53c08717c74c)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
