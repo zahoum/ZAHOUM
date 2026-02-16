@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,python,mysql,mongodb,git,github,linux,laravel,python" />
 </p>
-⭐️ From Zahoum
+⭐️ From Zahoum 
 
 ---
 
