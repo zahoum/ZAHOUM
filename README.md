@@ -1,127 +1,87 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=ZAHOUM&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Web%20Devoloper&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<div align="center">
-  <img src="./smooth-animated-background.svg" alt="Smooth animated anime-inspired neon city background for Zahoum" width="100%" />
-
-  <br />
-
-  <a href="https://github.com/zahoum">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=850&color=A78BFA&center=true&vCenter=true&width=780&lines=Hey%2C+I'm+ZAHOUM+%F0%9F%91%8B;Full-Stack+Web+Developer;Turning+ideas+into+useful+digital+experiences;Build.+Learn.+Improve.+Repeat." alt="Typing introduction" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ZAHOUM">
+    <img src="https://komarev.com/ghpvc/?username=ZAHOUM&label=Profile%20views&color=00FFFF&style=flat-square" alt="ZAHOUM's profile views" />
   </a>
+</p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=zahoum&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge" alt="Profile views" />
-    <a href="https://github.com/zahoum?tab=followers"><img src="https://img.shields.io/github/followers/zahoum?label=FOLLOWERS&style=for-the-badge&color=ec4899&labelColor=111827" alt="GitHub followers" /></a>
-    <a href="https://github.com/zahoum?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY%20REPOS-06b6d4?style=for-the-badge&labelColor=111827" alt="Explore repositories" /></a>
-  </p>
-</div>
+<img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
 
-<div align="center">
-  <img src="./animated-divider.svg" alt="" width="100%" />
-</div>
+## 📌 About Me
+- I enjoy bringing ideas to life through code — from a thoughtful user interface to the logic and data behind it. I care about building websites that are useful, responsive, maintainable, and enjoyable to use.
+- 🔭 I like building: full-stack web apps and interactive interfaces.
+- 🧠 My approach: understand the problem, keep the solution clear, then improve it step by step.
+- ⚡ Developer rule: ship something useful, learn from it, and make the next version better.
 
-## 🌌 `who am i` — A little about me
 
-```yaml
-name: Zahoum
-role: Full-Stack Web Developer
-interests:
-  - Building responsive web experiences
-  - Frontend interfaces and user experience
-  - Backend logic and database design
-  - Learning new tools by building real projects
-mindset: "Stay curious. Write clean code. Keep improving."
-```
+## 🛠️ Languages & Tools
 
-I enjoy bringing ideas to life through code — from a thoughtful user interface to the logic and data behind it. I care about building websites that are **useful, responsive, maintainable, and enjoyable to use**.
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
 
-- 🔭 **I like building:** full-stack web apps and interactive interfaces.
-- 🧠 **My approach:** understand the problem, keep the solution clear, then improve it step by step.
-- ⚡ **Developer rule:** ship something useful, learn from it, and make the next version better.
+</p>
 
-<div align="center">
-  <img src="./assets/animated-divider.svg" alt="" width="100%" />
-</div>
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
-## 🧰 Tech stack & tools
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,laravel,python,mysql,mongodb,git,github,linux&perline=7&theme=dark" alt="HTML, CSS, JavaScript, React, Redux, PHP, Laravel, Python, MySQL, MongoDB, Git, GitHub and Linux" />
-</div>
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/FRONTEND-1f2937?style=for-the-badge&labelColor=7c3aed" alt="Frontend" />
-  <img src="https://img.shields.io/badge/BACKEND-1f2937?style=for-the-badge&labelColor=db2777" alt="Backend" />
-  <img src="https://img.shields.io/badge/DATABASES-1f2937?style=for-the-badge&labelColor=0891b2" alt="Databases" />
-  <img src="https://img.shields.io/badge/TOOLS-1f2937?style=for-the-badge&labelColor=16a34a" alt="Tools" />
-</div>
+</p>
 
-<div align="center">
-  <img src="./assets/animated-divider.svg" alt="" width="100%" />
-</div>
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 
-## 📊 GitHub command center
+</p>
 
-<div align="center">
-  <a href="https://github.com/zahoum">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=zahoum&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=C9D1D9" alt="Zahoum's GitHub stats" />
-  </a>
-  <a href="https://github.com/zahoum?tab=repositories">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahoum&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most-used programming languages" />
-  </a>
-</div>
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
 
-<div align="center">
-  <img src="./assets/animated-divider.svg" alt="" width="100%" />
-</div>
+</p>
 
-## 🐍 The contribution trail
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake moving through Zahoum's GitHub contribution grid" src="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
+</p>
 
-<div align="center">
-  <img src="./assets/animated-divider.svg" alt="" width="100%" />
-</div>
+![Top language](https://stats.pphat.top/languages?username=ZAHOUM)
+<br/>
 
-## 🎯 What I value when building
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>✨ Thoughtful UI</h3>
-      Clear layouts, responsive pages, and interactions that feel natural.
-    </td>
-    <td width="33%" align="center">
-      <h3>⚙️ Solid logic</h3>
-      Readable code, predictable behavior, and practical backend solutions.
-    </td>
-    <td width="33%" align="center">
-      <h3>🚀 Continuous growth</h3>
-      Experiment, accept feedback, and improve one feature at a time.
-    </td>
-  </tr>
-</table>
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <img src="./assets/animated-divider.svg" alt="" width="100%" />
-</div>
-
-## 🤝 Connect
-
-<div align="center">
-  <a href="https://github.com/zahoum">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Zahoum on GitHub" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>Thanks for stopping by ✨</h3>
-  <i>Every great project starts with curiosity — see you in the next commit.</i>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:DB2777,100:0891B2&height=100&section=footer" alt="Purple, pink and cyan wave footer" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
