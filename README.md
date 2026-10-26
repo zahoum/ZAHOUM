@@ -62,9 +62,9 @@ I enjoy bringing ideas to life through code — from a thoughtful user interface
     <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahoum&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most-used programming languages" />
   </a>
 </div>
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahoum&theme=tokyo-night" />
-</div>
+</p>
 
 <div align="center">
   <img
