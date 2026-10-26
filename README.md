@@ -1,9 +1,3 @@
-<!--
-  ZAHOUM • GitHub Profile README
-  Repo name must match your GitHub username: zahoum
-  Replace or remove any section that doesn't match your real work.
--->
-
 <div align="center">
   <img src="./anime-banner.svg" alt="Anime-inspired neon night city banner for Zahoum" width="100%" />
 
@@ -22,7 +16,7 @@
 
 ---
 
-## 🌌 `whoami` — A little about me
+## 🌌 `who am i` — A little about me
 
 ```yaml
 name: Zahoum
@@ -68,16 +62,21 @@ I enjoy bringing ideas to life through code — from a thoughtful user interface
     <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahoum&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most-used programming languages" />
   </a>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahoum&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=EC4899&area=true&area_color=7C3AED" alt="GitHub contribution activity graph" width="98%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zahoum&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=A78BFA&amp;point=EC4899&amp;area=true&amp;area_color=7C3AED"
+    alt="GitHub contribution activity graph"
+    width="98%"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zahoum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" width="98%" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=zahoum&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1"
+    alt="GitHub profile trophies"
+    width="98%"
+  />
 </div>
-
-<sub>Note: GitHub stats cards are provided by external services. If a card temporarily fails to load, try again later or self-host the service.</sub>
 
 ---
 
@@ -85,13 +84,21 @@ I enjoy bringing ideas to life through code — from a thoughtful user interface
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake moving through Zahoum's GitHub contribution grid" src="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake.svg" width="100%" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Animated snake moving through Zahoum's GitHub contribution grid"
+      src="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
   </picture>
 </div>
-
----
 
 ## 🎯 What I value when building
 

@@ -1,12 +1,9 @@
-name: Update contribution snake
+name: Generate Contribution Snake
 
 on:
-  # Refresh the animation every day.
   schedule:
-    - cron: "17 0 * * *"
-  # Allow a manual refresh from the Actions tab.
+    - cron: "0 */24 * * *"
   workflow_dispatch:
-  # Refresh whenever the default branch changes.
   push:
     branches:
       - main
@@ -18,8 +15,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+
     steps:
-      - name: Generate contribution snake SVGs
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: zahoum
@@ -27,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish SVGs to the output branch
+      - name: Publish snake files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
