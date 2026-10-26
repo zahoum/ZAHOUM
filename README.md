@@ -1,11 +1,6 @@
-<!--
-  ZAHOUM • GitHub Profile README
-  Repo name must match your GitHub username: zahoum
-  Replace or remove any section that doesn't match your real work.
--->
 
 <div align="center">
-  <img src="./assets/smooth-animated-background.svg" alt="Smooth animated anime-inspired neon city background for Zahoum" width="100%" />
+  <img src="./smooth-animated-background.svg" alt="Smooth animated anime-inspired neon city background for Zahoum" width="100%" />
 
   <br />
 
@@ -21,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/animated-divider.svg" alt="" width="100%" />
+  <img src="./animated-divider.svg" alt="" width="100%" />
 </div>
 
 ## 🌌 `whoami` — A little about me
