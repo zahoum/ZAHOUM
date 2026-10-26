@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/anime-banner.svg" alt="Anime-inspired neon night city banner for Zahoum" width="100%" />
+  <img src="./anime-banner.svg" alt="Anime-inspired neon night city banner for Zahoum" width="100%" />
 
   <br />
 
