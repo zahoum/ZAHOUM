@@ -15,6 +15,15 @@
 - ⚡ Developer rule: ship something useful, learn from it, and make the next version better.
 
 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/ZAHOUM">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZAHOUM&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="ZAHOUM's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=ZAHOUM&theme=dark&hide_border=true&cache_seconds=86400" alt="ZAHOUM's GitHub Streak" width="49%" />
+</p>
+
+
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
@@ -73,14 +82,27 @@
 
 </p>
 
+<p align="center">
+  <a href="https://github.com/ZAHOUM">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZAHOUM&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
 ![Top language](https://stats.pphat.top/languages?username=ZAHOUM)
 <br/>
 
+## 🔗 Connect with Me
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <a href="mailto:aissazahoum6@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="ZAHOUM's Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://aissazahoum.vercel.app"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/853649339948"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
