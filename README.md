@@ -1,5 +1,11 @@
+<!--
+  ZAHOUM • GitHub Profile README
+  Repo name must match your GitHub username: zahoum
+  Replace or remove any section that doesn't match your real work.
+-->
+
 <div align="center">
-  <img src="./anime-banner.svg" alt="Anime-inspired neon night city banner for Zahoum" width="100%" />
+  <img src="./assets/smooth-animated-background.svg" alt="Smooth animated anime-inspired neon city background for Zahoum" width="100%" />
 
   <br />
 
@@ -14,9 +20,11 @@
   </p>
 </div>
 
----
+<div align="center">
+  <img src="./assets/animated-divider.svg" alt="" width="100%" />
+</div>
 
-## 🌌 `who am i` — A little about me
+## 🌌 `whoami` — A little about me
 
 ```yaml
 name: Zahoum
@@ -35,7 +43,9 @@ I enjoy bringing ideas to life through code — from a thoughtful user interface
 - 🧠 **My approach:** understand the problem, keep the solution clear, then improve it step by step.
 - ⚡ **Developer rule:** ship something useful, learn from it, and make the next version better.
 
----
+<div align="center">
+  <img src="./assets/animated-divider.svg" alt="" width="100%" />
+</div>
 
 ## 🧰 Tech stack & tools
 
@@ -50,25 +60,47 @@ I enjoy bringing ideas to life through code — from a thoughtful user interface
   <img src="https://img.shields.io/badge/TOOLS-1f2937?style=for-the-badge&labelColor=16a34a" alt="Tools" />
 </div>
 
+<div align="center">
+  <img src="./assets/animated-divider.svg" alt="" width="100%" />
+</div>
+
+## 📊 GitHub command center
+
+<div align="center">
+  <a href="https://github.com/zahoum">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=zahoum&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=C9D1D9" alt="Zahoum's GitHub stats" />
+  </a>
+  <a href="https://github.com/zahoum?tab=repositories">
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahoum&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most-used programming languages" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahoum&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=EC4899&area=true&area_color=7C3AED" alt="GitHub contribution activity graph" width="98%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zahoum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" width="98%" />
+</div>
+
+<sub>Note: GitHub stats cards are provided by external services. If a card temporarily fails to load, try again later or self-host the service.</sub>
+
+<div align="center">
+  <img src="./assets/animated-divider.svg" alt="" width="100%" />
+</div>
 
 ## 🐍 The contribution trail
 
 <div align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Animated snake moving through Zahoum's GitHub contribution grid"
-      src="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake moving through Zahoum's GitHub contribution grid" src="https://raw.githubusercontent.com/zahoum/zahoum/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
+</div>
+
+<div align="center">
+  <img src="./assets/animated-divider.svg" alt="" width="100%" />
 </div>
 
 ## 🎯 What I value when building
@@ -90,7 +122,9 @@ I enjoy bringing ideas to life through code — from a thoughtful user interface
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="./assets/animated-divider.svg" alt="" width="100%" />
+</div>
 
 ## 🤝 Connect
 
