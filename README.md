@@ -71,16 +71,6 @@ I enjoy bringing ideas to life through code — from a thoughtful user interface
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahoum&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=EC4899&area=true&area_color=7C3AED" alt="GitHub contribution activity graph" width="98%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zahoum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" width="98%" />
-</div>
-
-<sub>Note: GitHub stats cards are provided by external services. If a card temporarily fails to load, try again later or self-host the service.</sub>
-
-<div align="center">
   <img src="./assets/animated-divider.svg" alt="" width="100%" />
 </div>
 
