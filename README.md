@@ -63,11 +63,7 @@ I enjoy bringing ideas to life through code — from a thoughtful user interface
   </a>
 </div>
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph" 
-    alt="GitHub contribution activity graph" 
-    width="98%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahoum&theme=tokyo-night" />
 </div>
 
 <div align="center">
