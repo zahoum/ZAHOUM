@@ -50,23 +50,6 @@ I enjoy bringing ideas to life through code — from a thoughtful user interface
   <img src="https://img.shields.io/badge/TOOLS-1f2937?style=for-the-badge&labelColor=16a34a" alt="Tools" />
 </div>
 
----
-
-## 📊 GitHub command center
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahoum&theme=tokyo-night" />
-</p>
-
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=zahoum&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1"
-    alt="GitHub profile trophies"
-    width="98%"
-  />
-</div>
-
----
 
 ## 🐍 The contribution trail
 
