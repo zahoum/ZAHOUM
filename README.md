@@ -19,7 +19,7 @@
   <img src="./animated-divider.svg" alt="" width="100%" />
 </div>
 
-## 🌌 `whoami` — A little about me
+## 🌌 `who am i` — A little about me
 
 ```yaml
 name: Zahoum
