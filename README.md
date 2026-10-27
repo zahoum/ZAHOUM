@@ -12,11 +12,95 @@
 </br>
 
 
-## 🧠 My Focus Areas
-- I enjoy bringing ideas to life through code — from a thoughtful user interface to the logic and data behind it. I care about building websites that are useful, responsive, maintainable, and enjoyable to use.
-- 🔭 I like building: full-stack web apps and interactive interfaces.
-- 🧠 My approach: understand the problem, keep the solution clear, then improve it step by step.
-- ⚡ Developer rule: ship something useful, learn from it, and make the next version better.
+
+<!-- ═══════════════ NEON DEVELOPER · FOCUS AREAS ═══════════════ -->
+
+<h2 align="center">
+  <samp>⚡ My Focus Areas</samp>
+</h2>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=850&color=00D9FF&center=true&vCenter=true&width=750&height=60&lines=%3E+Full+Stack+Web+Development;%3E+React+%7C+Interactive+Interfaces;%3E+JavaScript+%7C+Modern+Frontend;%3E+PHP+%7C+Backend+Development;%3E+SQL+%7C+Database+Design"
+    alt="My Focus Areas"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-00D9FF?style=for-the-badge&labelColor=0D1117"
+    alt="Full Stack Development"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <samp>
+    Turning ideas into useful, responsive, and maintainable digital experiences.
+  </samp>
+  <br/>
+  <samp>
+    From thoughtful interfaces to the logic and data that power them.
+  </samp>
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50">
+      <img src="https://img.shields.io/badge/01-00D9FF?style=flat-square&labelColor=0D1117" alt="01"/>
+    </td>
+    <td>
+      <b>🔭 What I build</b><br/>
+      Full-stack web applications and interactive interfaces.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/02-00D9FF?style=flat-square&labelColor=0D1117" alt="02"/>
+    </td>
+    <td>
+      <b>🧠 My approach</b><br/>
+      Understand the problem. Keep the solution clear. Improve step by step.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/03-00D9FF?style=flat-square&labelColor=0D1117" alt="03"/>
+    </td>
+    <td>
+      <b>⚡ My developer rule</b><br/>
+      Ship something useful. Learn from it. Make the next version better.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/BUILD-00D9FF?style=flat-square&labelColor=0D1117"
+    alt="Build"
+  />
+  <img
+    src="https://img.shields.io/badge/LEARN-00D9FF?style=flat-square&labelColor=0D1117"
+    alt="Learn"
+  />
+  <img
+    src="https://img.shields.io/badge/IMPROVE-00D9FF?style=flat-square&labelColor=0D1117"
+    alt="Improve"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <samp><b>while (learning) { build(); improve(); repeat(); }</b></samp>
+</div>
+
+<!-- ═════════════════════════════════════════════════════════════ -->
 
 
 
