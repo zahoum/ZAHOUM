@@ -60,9 +60,17 @@
 
 <br/>
 
+
 <div align="center">
-  <code>while (learning) { build(); improve(); repeat(); }</code>
+
+  <img src="https://img.shields.io/badge/TERMINAL-0D1117?style=for-the-badge&logo=windowsterminal&logoColor=00D9FF" alt="Terminal"/>
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=%24+while+%28learning%29+%7B+build%28%29%3B+improve%28%29%3B+repeat%28%29%3B+%7D" alt="Terminal typing animation"/>
+
 </div>
+
 
 
 
