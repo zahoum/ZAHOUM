@@ -11,9 +11,6 @@
 
 </br>
 
-<p align="center">
-  <img src="assets/spinning-torus.gif" alt="Spinning Torus, animated ASCII art" width="720">
-</p>
 
 ## 🧠 My Focus Areas
 - I enjoy bringing ideas to life through code — from a thoughtful user interface to the logic and data behind it. I care about building websites that are useful, responsive, maintainable, and enjoyable to use.
