@@ -1,18 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=ZAHOUM&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Web%20Devoloper&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=ZAHOUM AISSA&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Web%20Devoloper&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ZAHOUM">
-    <img src="https://komarev.com/ghpvc/?username=ZAHOUM&label=Profile%20views&color=00FFFF&style=flat-square" alt="ZAHOUM's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=ZAHOUM&label=Zahoum%20Profile%20views&color=00FFFF&style=flat-square" alt="ZAHOUM's profile views" />
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+## 🧠 My Focus Areas
 - I enjoy bringing ideas to life through code — from a thoughtful user interface to the logic and data behind it. I care about building websites that are useful, responsive, maintainable, and enjoyable to use.
 - 🔭 I like building: full-stack web apps and interactive interfaces.
 - 🧠 My approach: understand the problem, keep the solution clear, then improve it step by step.
 - ⚡ Developer rule: ship something useful, learn from it, and make the next version better.
+
 
 
 ## 📊 GitHub Stats & Trophies
@@ -25,7 +26,12 @@
 
 
 ## 🛠️ Languages & Tools
-
+<p align="center">
+  <a href="https://github.com/ZAHOUM">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZAHOUM&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+</br>
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -82,11 +88,7 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/ZAHOUM">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZAHOUM&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+
 
 ## 🔗 Connect with Me
 <p align="center">
