@@ -88,15 +88,19 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=ZAHOUM)
-<br/>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="mailto:aissazahoum6@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="ZAHOUM's Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://aissazahoum.vercel.app"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/853649339948"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
+## 🔗 Connect with Me
+<p align="center">
+  <a href="mailto:aissazahoum6@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="ZAHOUM's Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://aissazahoum.vercel.app"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/853649339948"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+
 
 
 
